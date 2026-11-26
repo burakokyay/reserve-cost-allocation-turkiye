@@ -1,4 +1,4 @@
-# Reserve cost allocation in Türkiye – replication code
+# Reserve cost allocation in Türkiye replication code
 
 Replication code by Burak Okyay (Mudanya University) for "Who pays for the largest contingency? Reserve cost allocation and nuclear unit size in Türkiye's low-inertia transition".
 
