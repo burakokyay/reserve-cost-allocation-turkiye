@@ -1,0 +1,18 @@
+indicator,value
+EPIAS hourly consumption (TWh),352.51
+EPIAS hourly generation: coal (TWh),121.41
+EPIAS hourly generation: gas+oil (TWh),79.12
+EPIAS hourly generation: hydro (TWh),57.22
+EPIAS hourly generation: wind (TWh),39.25
+EPIAS hourly generation: solar (TWh),7.73
+"Model hourly wind error, sd (% of output, assumed)",8
+"Model hourly solar error, sd (% of output, assumed)",6
+"Correlation of hourly coal output, model vs EPIAS",0.53
+"Correlation of hourly gas output, model vs EPIAS",0.94
+"Measured day-ahead wind error, sd (% of mean output; diagnostic)",30.41
+"Measured day-ahead solar error, sd (% of mean output; diagnostic)",
+"Actual PFC+SFC volume, mean (MW)",1310.21
+"Modelled upward requirement, mean (MW)",1311.72
+Actual PFC+SFC capacity cost (USD m),380.84
+Modelled reserve cost (USD m),405.05
+Actual mean reserve price (USD/MW-h),33.52

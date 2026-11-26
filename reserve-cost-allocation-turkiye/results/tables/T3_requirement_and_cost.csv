@@ -1,0 +1,4 @@
+scen,total_cost_musd,total_cost_lo,total_cost_hi,contingency_share_pct,mean_req_MW,mean_Rc_MW,mean_Rv_MW,p95_req_MW,nadir_binding_pct,mean_largest_cont_MW,mean_inertia_GWs,D1_usd_per_mwh
+S2025,405.05,385.43,425.45,43.05,1311.72,590.63,721.09,1752.08,2.86,588.24,159.45,1.14
+S2030,902.57,853.08,964.18,61.86,2582.49,1528.15,1054.34,4261.66,63.25,1171.94,162.51,2.2
+S2035,1357.94,1288.63,1434.66,55.42,3857.2,2045.75,1811.45,6884.24,69.99,1198.47,142.86,2.86

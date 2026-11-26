@@ -1,0 +1,8 @@
+item,actual_TWh,simulated_TWh,dev_pct
+Total generation,353.86,353.86,0
+Coal,121.4,121.4,0
+Gas and oil,79.39,79.39,0
+Hydro,57.27,57.27,0
+Wind,39.42,39.42,0
+Solar,37.25,37.25,0
+Other renewables,19.13,19.13,0

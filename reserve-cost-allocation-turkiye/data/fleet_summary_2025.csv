@@ -1,0 +1,8 @@
+tech,plants,units,capacity_mw,largest_unit_mw,mean_unit_mw,trips_per_unit_year,FOR_capweighted
+hydro_res,141,169,20983,350,91,75.95,0.1599
+gas,305,334,20705,448,32,20.24,0.0687
+coal,50,58,18947,700,282,5.76,0.0117
+wind,304,304,14938,303,49,7.14,0.013
+hydro_ror,572,572,7221,146,13,49.86,0.138
+other,343,343,3317,148,10,52.57,0.0339
+solar,73,73,2732,800,37,12.44,0.0452
